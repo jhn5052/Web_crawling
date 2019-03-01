@@ -1,3 +1,3 @@
 # WEB CRAWLING
 	
-	* using python, requests, BeautifulSoup
+## using python, requests, BeautifulSoup
